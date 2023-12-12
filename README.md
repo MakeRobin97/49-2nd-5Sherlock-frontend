@@ -2,8 +2,11 @@
 
 - 오설록에 있는 메인페이지, 제품페이지, 제품 상세페이지, 주문, 결제 페이지를 구현
 
-### 데모 영상(이미지 클릭)
-[데모영상](https://www.youtube.com/watch?v=-dnFsE2nu9c)
+![image](https://github.com/MakeRobin97/49-2nd-5Sherlock-frontend/assets/127472621/d12c6a5a-de16-4dd7-9070-2bddc8ae7f22)
+
+
+### 데모 영상
+https://www.youtube.com/watch?v=-dnFsE2nu9c
 
 ## 5SHERLOCK 프로젝트 Front-end 소개
 
